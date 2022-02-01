@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marco-campos
-- 👀 I’m interested in Mathematics, resources for education, computer graphics, and web development!
-- 🌱 I’m currently learning Three.Js, React, and Node.js
-- 💞️ I’m looking to collaborate on Websites with interactice 3D experiences.
+- 👀 I’m interested in computational mathematics, resources for math education, computer graphics, and web development!
+- 🌱 I’m currently learning Three.Js, Vue, and Node.js
+- 💞️ I’m looking to collaborate on websites for math exposition or 3D graphics.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/marco-campos24/
 
 <!---
