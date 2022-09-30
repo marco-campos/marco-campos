@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marco-campos
-- 👀 I’m interested in computational mathematics, resources for math education, computer graphics, and web development!
-- 🌱 I’m currently learning Three.Js, Vue, and Node.js
-- 💞️ I’m looking to collaborate on websites for math exposition or 3D graphics.
+- 👀 I’m a PhD student at the University of Houston interested in Computational Topology, namely Sensor Networks.
+- 🌱 I’m working in Python with packages such as gudhi, scikit, scipy, and pandas.
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/marco-campos24/
 
 <!---
