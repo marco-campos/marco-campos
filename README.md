@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marco-campos
 - 👀 I’m a PhD student at the University of Houston interested in Computational Topology.
-- 🌱 I’m working in Python with packages such as gudhi, scikit, scipy, and pandas.
+- 🌱 I work with TDA packages like gudhi and build ML models using Pytorch. Sometimes I build websites with React and Three.js for fun!
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/marco-campos24/
 
 <!---
